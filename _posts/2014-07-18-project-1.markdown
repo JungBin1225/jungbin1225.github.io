@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2019-10-18
+img: MIM_Main.PNG
 alt: image-alt
-project-date: 2019
-client: Start Bootstrap
-category: Web
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2019-10-18 ~ 2019-12-10
+Role: 프로그래머
+Engine: JAVA
+description: 캐릭터가 지면에 있을 때 스페이스 바를 눌러 점프할 수 있고, 공중에서 스페이스 바를 한번 더 눌러 더블 점프를 할 수 있다. 점프와 더블점프를 이용해 장애물을 피하며 도착지점까지 가는 것이 목표이다.
 ---
