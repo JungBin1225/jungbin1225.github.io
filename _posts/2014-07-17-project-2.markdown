@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-10-18
-img: E.S.cape_Main.PNG
+img: E.S.cape_Main.png
 alt: image-alt
 project-date: 2019-10-18 ~ 2019-12-10
 role: 프로그래머
