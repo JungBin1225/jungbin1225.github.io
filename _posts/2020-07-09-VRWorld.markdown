@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2020-07-09
+img: VRWorld_Main.png
+alt: image-alt
+project-date: 2020-07-09 ~ 2021-11-30
+role: 프로그래머
+engine: Unity, C#
+link: https://github.com/JungBin1225/VRworld
+youtube: https://www.youtube.com/embed/uRjAOVGLkRk
+description: 게임을 시작하기 전에 사용할 총을 고를 수 있고, 총을 고르면 게임이 시작된다. 화면을 터치하거나 터치를 유지하는 것으로 총을 발사할 수 있고, 이것으로 주변에서 몰려오는 적들을 물리치며 최대한 많은 시간을 버티는 것이 목표이다.
+---

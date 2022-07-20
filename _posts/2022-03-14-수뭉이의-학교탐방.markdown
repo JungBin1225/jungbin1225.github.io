@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 9
+date: 2022-03-14
+img: Sumumg_Main.png
+alt: image-alt
+project-date: 2022-03-14 ~ 2022-04-20
+role: 프로그래머(맵 이동 및 미니게임)
+engine: Unity, C#
+link: https://github.com/ehddn/Sumong_WebGame
+youtube: https://www.youtube.com/embed/SF2FJB1Xeug
+story: 상명대학교의 마스코트인 수뭉이가 신입생들을 위해 학교 탐방을 하며 학교 안내를 한다.
+description: 상명대학교 서울캠퍼스와 천안캠퍼스의 건물들에 대해 설명해주며, 설명이 끝나면 퀴즈를 진행한다. 한 캠퍼스의 퀴즈를 전부 해결하면 간단한 퍼즐 게임을 진행하고, 두 캠퍼스의 퀴즈를 모두 끝내면 성적얻기 미니게임을 진행하게 된다.
+---

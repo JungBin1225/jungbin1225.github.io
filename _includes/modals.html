@@ -16,12 +16,12 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <iframe class="responsive-iframe" width="650" height="450" src="{{ post.youtube }}" title="입속 멜로 발표영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <p><strong>스토리</strong></p>
                             {% if post.story %}
+                                <p><strong>스토리</strong></p>
                                 <p>{{ post.story }}</p>
                             {% endif %}
-                            <P><strong>핵심 플레이</strong></P>
                             {% if post.description %}
+                                <P><strong>핵심 플레이</strong></P>
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <a href="{{ post.link }}">
