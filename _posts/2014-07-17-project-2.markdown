@@ -1,12 +1,14 @@
 ---
 layout: default
 modal-id: 2
-date: 2019-10-18
+date: 2020-04-13
 img: E.S.cape_Main.png
 alt: image-alt
-project-date: 2019-10-18 ~ 2019-12-10
+project-date: 2020-04-13 ~ 2020-06-29
 role: 프로그래머
 engine: JAVA
-link: https://github.com/JungBin1225/Melo_in_Mouth
-description: 캐릭터가 지면에 있을 때 스페이스 바를 눌러 점프할 수 있고, 공중에서 스페이스 바를 한번 더 눌러 더블 점프를 할 수 있다. 점프와 더블점프를 이용해 장애물을 피하며 도착지점까지 가는 것이 목표이다.
+link: https://github.com/JungBin1225/E.S.cape
+youtube: https://www.youtube.com/embed/6zbWRv5f-Es
+story: 마법이 존재하는 세계에 사는 주인공은 취업을 하지 못해 가난하게 살고 있었지만, 세상에서 가장 실력이 좋은 대마법사의 마법 망토를 가지게 되면 취업을 할 수 있을 것이라고 생각하게 된다. 대마법사를 만나러 간 주인공은 어떤 방에 갇히게 되고, 주인공은 대마법사를 만나기 위해 방의 암호를 풀어 탈출하려고 한다.
+description: 스페이스 바로 방 안의 물체들과 상호작용하여 자세히 관찰할 수 있으며, E를 눌러 인벤토리를 열어 얻은 아이템들을 확인할 수 있다.
 ---
