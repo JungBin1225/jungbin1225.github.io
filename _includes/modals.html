@@ -15,12 +15,15 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <iframe class="responsive-iframe" width="650" height="450" src="https://www.youtube.com/embed/IzKfuOor6l0" title="입속 멜로 발표영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe class="responsive-iframe" width="650" height="450" src="{{ post.youtube }}" title="입속 멜로 발표영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             <p><strong>스토리</strong></p>
+                            {% if post.story %}
+                                <p>{{ post.story }}</p>
+                            {% endif %}
+                            <P><strong>핵심 플레이</strong></P>
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
-                            <P><strong>핵심 플레이</strong></P>
                             <a href="{{ post.link }}">
                                 <img src="img/GitHub-Logo.png" class="img-responsive img-centered" width="114" height="64" alt="{{ post.alt }}"><br>깃허브 링크
                             </a>
