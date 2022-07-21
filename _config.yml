@@ -2,10 +2,10 @@
 title: 이정빈 포트폴리오
 email: jb5982@naver.com
 url: https://jeromelachaud.com/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "게임 개발"
-meta_author: LastName FirstName
+description: "JungBin Lee's Portfolio"
+keywords: "Portfolio, Game, Project"
+skills: "Game Client Programmer"
+meta_author: JungBin Lee
 
 # Google webmaster tools
 google_verify:
@@ -33,30 +33,21 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Education
   social: Around the Web
-  credits: Credits
+  credits: Job Objectives
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/JungBin1225
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 상명대학교 게임학과 19학번
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Game Back-end Programmer'
 
 # Build settings
 markdown: kramdown
