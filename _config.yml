@@ -47,7 +47,7 @@ address:
   - line: 상명대학교 게임학과 19학번
 
 # Credits content
-credits: 'Game Back-end Programmer'
+credits: 'Game Client Programmer'
 
 # Build settings
 markdown: kramdown
