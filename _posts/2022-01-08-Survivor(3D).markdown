@@ -4,7 +4,7 @@ modal-id: 8
 date: 2022-01-08
 img: Survivor(3D)_Main.png
 alt: image-alt
-project-date: 2022-01-08 ~ 2023-02-28
+project-date: 2022-01-08 ~ 2022-12-01
 role: 프로그래머(전투)
 engine: Unity, C#
 link: https://github.com/JungBin1225/Survivor_3D

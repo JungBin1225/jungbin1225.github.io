@@ -4,7 +4,7 @@ modal-id: 7
 date: 2021-11-16
 img: RGB_Main.png
 alt: image-alt
-project-date: 2021-11-16 ~ 개발 중
+project-date: 2021-11-16 ~ 2022-12-10(개발 중단)
 role: 프로그래머(백엔드)
 engine: Unity, C#
 link: https://github.com/JungBin1225/RGB
