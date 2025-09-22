@@ -4,6 +4,7 @@ modal-id: 8
 date: 2022-01-08
 img: Survivor(3D)_Main.png
 alt: image-alt
+apk: https://drive.google.com/drive/folders/10IPE8PG3TKXiSCV2K_SpYz1_anaQFkWH?usp=sharing
 project-date: 2022-01-08 ~ 2022-12-01
 role: 프로그래머(전투)
 engine: Unity, C#
